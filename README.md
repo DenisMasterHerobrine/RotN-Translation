@@ -10,7 +10,7 @@
 
 <div align="center"> <h1>  Information </h1> </div>
 
-This resourcepack translates everything related to RotN modpack. Translated text originally commited here is licensed under MIT License. Other things as parts of CraftTweaker scripts and etc. from Rebirth of the Night modpack and licensed under [RotN License](https://github.com/Rebirth-of-the-Night/Rebirth-Of-The-Night/blob/master/LICENSE.md)
+This resourcepack translates everything related to RotN modpack. Translated text originally commited here is licensed under MIT License. Other things as parts of CraftTweaker scripts and etc. are from [Rebirth of the Night](https://www.curseforge.com/minecraft/modpacks/rebirth-of-the-night) modpack and licensed under [RotN License](https://github.com/Rebirth-of-the-Night/Rebirth-Of-The-Night/blob/master/LICENSE.md)
 
 <div align="center"> <h1>  Translations </h1> </div>
 Everyone is able to contribute to this small project through PRs and suggesting translations or reporting bugs through Issues on this GitHub repository.
@@ -28,3 +28,7 @@ Available languages can be found here:
 
 NOTE: 
 	- At the moment this translation pack is WIP. To get the localization you need to replace files that you downloaded, however there are a Reverter archive which reverts all Translation Pack changes in case something becomes broken.
+
+# Discord/Support
+You can find me or other translators in the official [RotN Discord](https://discord.gg/rotn) in #rotn-русский and talk to us.
+Report bugs using Issues tab on GitHub.
