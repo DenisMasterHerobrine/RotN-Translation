@@ -1,0 +1,21 @@
+{
+    "name": "Урна души",
+    "icon": "betterwithmods:urn:8",
+    "category": "innovation_materials",
+    "advancement": "triumph:advancements/progression/nether/enterNether",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "betterwithmods:urn:8",
+            "text": "Урна, наполненная душами проклятых. $(br2)Я могу наполнить ее, поместив пустую урну под $(l:innovation/light_machines/hopper)фильтрованный бункер$(), затем пропустив молотый нетеррак через бункер с фильтром Soul Sand, чтобы собрать души в урну."
+        },
+        {
+			"type": "relations",
+			"entries": [
+                "innovation/pottery",
+                "innovation/light_machines/hopper",
+				"innovation/metallurgy/sfs"
+			]
+		}
+    ]
+}

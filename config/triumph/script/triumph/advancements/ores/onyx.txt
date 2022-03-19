@@ -1,0 +1,14 @@
+setIcon("simpleores:onyx_gem")
+setTitle("Unimaginable Strength")
+setDescription("Mine onyx ore")
+
+addParent("triumph:advancements/ores/exorite")
+
+criteria = addCriteria("Onyx Gem", "minecraft:inventory_changed")
+criteria.addItem("simpleores:onyx_gem")
+
+setShowToast(false)
+setAnnounceToChat(false)
+
+alwaysVisible()
+setPos(28,-52)

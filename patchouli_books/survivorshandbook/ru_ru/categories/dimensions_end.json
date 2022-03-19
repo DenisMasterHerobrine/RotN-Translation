@@ -1,0 +1,8 @@
+{
+  "name": "Край мира",
+  "description": "Острова инопланетной жизни в кажущейся бесконечной пустоте...",
+  "icon": "minecraft:end_stone",
+  "sortnum": 6,
+  "read_by_default": "true",
+  "parent": "dimensions"
+}

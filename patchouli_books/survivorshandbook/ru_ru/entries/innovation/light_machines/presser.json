@@ -1,0 +1,25 @@
+{
+    "name": "Механический пресс",
+    "icon": "horsepower:press",
+    "category": "innovation_light_machines",
+    "sortnum": 4,
+    "read_by_default": "true",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "horsepower:press",
+            "text": "Этот механический пресс на самом деле работает от $(l:innovation/mechpower/horsepower)лошадиной силы.$()$(br2) Сам пресс требует большой площади, 7x7, чтобы у лошади было достаточно места для работы этой машины."
+        },
+        {
+            "type": "crafting",
+            "recipe": "crafttweaker:horse_press",
+            "text": "Как только я все настрою и прикреплю лошадь к станку, я смогу начать обработку изделий, как только положу компонент на верхнюю часть механического пресса."
+        },
+        {
+			"type": "relations",
+			"entries": [
+				"innovation/mechpower/horsepower"
+			]
+		}
+    ]
+}

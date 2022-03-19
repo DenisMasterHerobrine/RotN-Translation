@@ -1,0 +1,7 @@
+{
+  "name": "Пикси",
+  "description": "Множество красивых и светящихся существ мира со своими обычаями, традициями и ценностями. Дружелюбны.",
+  "icon": "lifescroll:spawnscroll",
+  "sortnum": 10,
+  "parent": "civilization"
+}

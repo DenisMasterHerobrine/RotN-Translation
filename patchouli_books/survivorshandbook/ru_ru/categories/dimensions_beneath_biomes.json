@@ -1,0 +1,8 @@
+{
+  "name": "Биомы",
+  "description": "Множество пропастей, таящихся во мраке подбрюшья древнего барьера.",
+  "icon": "biomesoplenty:terrarium:11",
+  "sortnum": 1,
+  "read_by_default": "true",
+  "parent": "dimensions_beneath"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Осквернение мира пламенем.",
+  "icon": "minecraft:nether_star",
+  "category": "survival_worldstate",
+  "advancement": "triumph:advancements/progression/killedWither",
+
+  "pages": [
+ 	{
+      "type": "text",
+      "text": "Убийство Иссушителя пробудило множество грозных существ по всему Нижнему и Обычному миру. Боюсь, некоторые из них перебрались также в Разлом Пустоты... возможно, и на поверхность... Я боюсь... "
+    },
+    {
+      "type": "relations",
+      "entries": [
+        "adapt/twine",
+        "gather/sticks"
+      ]
+    }
+  ]
+}

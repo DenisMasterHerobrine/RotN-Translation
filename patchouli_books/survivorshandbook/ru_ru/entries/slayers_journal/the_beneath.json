@@ -1,0 +1,27 @@
+{
+  "name": "Подземье",
+  "icon": "dimstack:portal",
+  "category": "slayers_journal",
+  "advancement": "triumph:advancements/progression/nether/killedQuazar",
+
+  "sortnum": 1,
+  "pages": [
+  	{
+			"type": "spotlight",
+			"title": "Разрушение арканного барьера",
+			"item": "contenttweaker:magic_bomb",
+			"text": "$(#734608)Чтобы разрушить арканный барьер, вы должны взорвать его с помощью магии. Одним из способов взрыва барьера является $(item)магическая бомба$()$(#734608), созданная путем разрушения летучего ядра.  $()"
+	},
+	{
+		"type": "text",
+		"text": "$(#734608)Будьте осторожны, разрушение арканного барьера выпустит наружу все зло, которое было заперто в нем веками. $()"
+	  },
+	
+    {
+      "type": "relations",
+      "entries": [
+        "slayers_journal/arcana_volatile_core"
+      ]
+    }
+  ]
+}

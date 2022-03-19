@@ -1,0 +1,25 @@
+{
+    "name": "Первая помощь",
+    "icon": "scalinghealth:healingitem:1",
+    "category": "exploration_tools",
+    "read_by_default": "true",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Аптечки первой помощи пригодятся в чрезвычайных ситуациях.$(br2)На их использование требуется некоторое время, поэтому перед применением мне нужно убедиться, что я нахожусь в безопасном месте.$(br2)$(o)Только 1 метод крафта показан после этой страницы, но есть разные способы крафта из мха, мыла, блестящего арбуза и т. д."
+        },
+        {
+            "type": "crafting",
+            "recipe": "crafttweaker:aloe_dressing",
+            "recipe2": "crafttweaker:scalinghealth_medkit_5",
+            "text": "Показан только 1 метод крафта, но есть много других способов в JEI."
+        },
+        {
+            "type": "relations",
+            "entries": [
+                "adapt/twine",
+                "gather/sticks"
+            ]
+        }
+    ]
+}

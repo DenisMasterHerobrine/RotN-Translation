@@ -1,0 +1,26 @@
+{
+    "name": "Каменная наковальня",
+    "icon": "pyrotech:anvil_granite",
+    "category": "innovation_advanced_crafting",
+    "sortnum": 2,
+    "read_by_default": "true",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "pyrotech:anvil_granite",
+            "text": "Сжимая камень, я могу создать прочную и однородную поверхность для грубой обработки таких материалов, как металлы. $(br2)Это также позволяет извлекать из некоторых видов камня залежи материала, которые невозможно добыть простым способом."
+        },
+        {
+            "type": "crafting",
+            "recipe": "crafttweaker:pyro_stone_anvil",
+            "text": "Для этого процесса я могу использовать множество инструментов, например, кувалду или кирку."
+        },
+        {
+            "type": "relations",
+            "entries": [
+                
+            ]
+        }
+    ]
+    
+}

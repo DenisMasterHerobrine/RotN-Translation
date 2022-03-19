@@ -1,0 +1,20 @@
+{
+  "name": "Тень ночи",
+  "icon": "contenttweaker:adhesive_shadow",
+  "category": "survival_worldstate",
+  "advancement": "triumph:advancements/progression/killedIdolofRadiance",
+
+  "pages": [
+ 	{
+      "type": "text",
+      "text": "С тех пор, как я разбил сияющего идола, кажется, что тьма в Подземелье только усилилась."
+    },
+    {
+      "type": "relations",
+      "entries": [
+        "adapt/twine",
+        "gather/sticks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Ветряки",
+    "icon": "betterwithmods:axle_generator:0",
+    "category": "innovation_mechpower",
+    "sortnum": 4,
+    "read_by_default": "true",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Один из самых удобных способов получения энергии - это воздушные потоки через ветряную мельницу.$(br2) Одна ветряная мельница снаружи в $(thing)Открытом мире$() может запустить все мои машины, если я смогу эффективно настроить сеть осей."
+        },
+        {
+            "type": "crafting",
+            "recipe": "betterwithmods:blocks/mech/windmill",
+            "text": "Стандартная горизонтальная ветряная мельница."
+        },
+		{
+            "type": "text",
+            "text": "Мне нужно позаботиться о том, чтобы не пытаться получить энергию от ветряка во время дождя или грозы, так как более высокая скорость ветра приведет к поломке подключенных $(l:innovation/mechpower/gearbox)редукторов$(). Простой рычаг на первом редукторе цепи, приводимый в действие вручную во время шторма, решил бы эту проблему... или ветряной колокольчик тоже может сработать."
+        },
+        {
+            "type": "crafting",
+            "recipe": "betterwithmods:blocks/mech/waterwheel",
+            "text": "Вариант вертикальной ветряной мельницы. Этот тип можно использовать под землей, что окажется полезным в глубинах Надземного мира или в Недрах."
+        },
+        {
+			"type": "item_list_spotlight",
+			"title": "Ветряные колокольчики",
+			"text": "Эти колокольчики посылают редстоун сигнал во время дождя или шторма.",
+			"a_i":"book:empty.png",
+			"b_i":"book:empty.png",
+			"c":"betterwithmods:bamboo_chime",
+			"c_t":"Made with bamboo. Available in classic wood types.",
+			"c_i":"book:hover_icon.png",
+			"d_i":"book:empty.png",
+			"e":"betterwithmods:metal_chime",
+			"e_t":"Made with generic metals. Available in classic wood types.",
+			"e_i":"book:hover_icon.png",
+			"f_i":"book:empty.png",
+			"g_i":"book:empty.png"
+		},
+        {
+			"type": "relations",
+			"entries": [
+				"innovation/mechpower/gearbox"
+			]
+		}
+    ]
+}

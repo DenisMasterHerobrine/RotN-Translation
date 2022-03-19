@@ -1,0 +1,11 @@
+{
+    "name": "Корабль Края",
+    "icon": "minecraft:purpur_block",
+    "category": "dimensions_end_structures",
+    "pages": [
+    {
+        "type": "text",
+        "text": "Здесь можно найти элитры, немного шалкеров и обсидиан."
+      }
+    ]
+  }

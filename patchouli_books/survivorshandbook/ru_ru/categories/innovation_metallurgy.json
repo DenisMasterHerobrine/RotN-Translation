@@ -1,0 +1,7 @@
+{
+  "name": "Металлургия",
+  "description": "Создание и обработка металлов.",
+  "icon": "betterwithmods:material:14",
+  "sortnum": 6,
+  "parent": "innovation"
+}

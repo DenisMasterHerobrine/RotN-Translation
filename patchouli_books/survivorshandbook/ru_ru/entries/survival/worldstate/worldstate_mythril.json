@@ -1,0 +1,20 @@
+{
+  "name": "Раскол Мира",
+  "icon": "simpleores:mythril_ore",
+  "category": "survival_worldstate",
+  "advancement": "triumph:advancements/progression/minedMythril",
+
+  "pages": [
+ 	{
+      "type": "text",
+      "text": "Уничтожение этих залежей мифрила, похоже, повлияло на защитную магию тайного барьера. Все виды существ, которые раньше прятались, теперь бесстрашно бродят по миру... и начали обладать определёнными новыми навыками..."
+    },
+    {
+      "type": "relations",
+      "entries": [
+        "adapt/twine",
+        "gather/sticks"
+      ]
+    }
+  ]
+}

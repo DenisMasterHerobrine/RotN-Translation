@@ -1,0 +1,24 @@
+{
+  "name": "Поворотный стол",
+  "icon": "betterwithmods:single_machine:3",
+  "category": "innovation_light_machines",
+  "sortnum": 2,
+  "read_by_default": "true",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "crafttweaker:turntable",
+      "text": "Поворотный стол - это великое изобретение, используемое для легкой обработки различных $(l:innovation/pottery)изделий и керамики$() с легкостью, пока у меня есть механическая сила, проходящая через дно."
+    },
+    {
+      "type": "text",
+      "text": "Ты крутишь меня прямо по кругу, детка$(br) Прямо по кругу, как пластинку, детка$(br) Прямо по кругу, по кругу, по кругу."
+    },
+    {
+      "type": "relations",
+      "entries": [
+        "innovation/pottery"
+      ]
+    }
+  ]
+}

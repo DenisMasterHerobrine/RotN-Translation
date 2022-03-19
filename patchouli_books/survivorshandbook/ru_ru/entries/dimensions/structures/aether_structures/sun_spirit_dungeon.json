@@ -1,0 +1,11 @@
+{
+    "name": "Подземелье Солнечного Духа",
+    "icon": "aether_legacy:hellfire_double_slab",
+    "category": "dimensions_aether_structures",
+    "pages": [
+    {
+        "type": "text",
+        "text": "Подземелье Солнечного Духа - небольшая структура, находящаяся на островах в небе."
+      }
+    ]
+  }

@@ -1,0 +1,23 @@
+{
+  "name": "Запись о руинах",
+  "icon": "minecraft:sandstone",
+  "category": "exploration_ruins",
+  "pages": [
+  {
+      "type": "text",
+      "text": "$(item)Щипцы$() позволят вам безопасно обращаться с $(item)цветками$().$(p)$(info) Чтобы взять $(item)цветки$(), $(use)поднесите $(item)цветки$() к $(item)цветкам$() с помощью $(p)тонгов$(info).$(item)$() $(item)Щипцы$(), удерживаемые в любой руке, поднимут $(p)цветки$(info), когда они попадут в ваш инвентарь.$(item)$() $(item)Щипцы$() можно использовать с $(item)Блумери$() и Увядшей кузницей$(undefined).$(undefined)"
+    },
+    {
+      "type": "crafting",
+      "recipe": "pyrotech:tool/obsidian_pickaxe",
+      "recipe2": "pyrotech:tool/obsidian_axe"
+    },
+    {
+      "type": "relations",
+      "entries": [
+        "adapt/twine",
+        "gather/sticks"
+      ]
+    }
+  ]
+}

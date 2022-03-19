@@ -1,0 +1,11 @@
+{
+    "name": "Поломанный портал",
+    "icon": "minecraft:obsidian",
+    "category": "dimensions_beneath_structures",
+    "pages": [
+    {
+        "type": "text",
+        "text": "Поломанный портал, который пытались построить, но допустили ошибку."
+      }
+    ]
+  }

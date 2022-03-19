@@ -1,0 +1,15 @@
+{
+  "name": "Осколок ночи",
+  "icon": "contenttweaker:shard_of_night",
+  "category": "slayers_journal_arcana",
+  "advancement": "triumph:advancements/progression/killedHarvester",
+
+  "pages": [
+  	{
+			"type": "spotlight",
+			"title": "Осколок ночи",
+			"item": "contenttweaker:shard_of_night",
+			"text": "$(#734608)Это $(item)Осколок ночи$() $(#734608)это жутко uwu$()"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Драконья сталь",
+    "icon": "iceandfire:dragonsteel_fire_ingot",
+    "category": "innovation_metallurgy",
+    "advancement": "triumph:advancements/bosskills/killdragon",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "iceandfire:dragonsteel_fire_ingot",
+            "text": "Невероятно прочный металл, выкованный из грубого сплава стали и железа, настоянного на крови дракона и выкованного дыханием живого дракона в соответствующей драконьей кузнице."
+        },
+        {
+            "type": "text",
+            "text": "Существует 2 разновидности этой драконьей стали: $(br) огненная драконья сталь и ледяная драконья сталь.$(br2) Каждая из них изготавливается в своих собственных уникальных драконьих кузницах, которые также должны питаться соответствующей разновидностью дракона."
+        },
+        {
+            "type": "crafting",
+            "recipe": "iceandfire:dragonforge_fire_core",
+            "recipe2": "iceandfire:dragonforge_ice_core"
+        },
+        {
+			"type": "relations",
+			"entries": [
+				
+			]
+		}
+    ]
+}

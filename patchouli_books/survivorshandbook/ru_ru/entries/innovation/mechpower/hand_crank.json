@@ -1,0 +1,25 @@
+{
+    "name": "Ручной привод",
+    "icon": "betterwithmods:hand_crank",
+    "category": "innovation_mechpower",
+    "sortnum": 1,
+    "read_by_default": "true",
+    "pages": [
+        {
+            "type": "crafting",
+            "recipe": "crafttweaker:hand_crank",
+            "text": "Примитивное, но простое решение.$(br2) Поместив его рядом с моими $(l:innovation/light_machines/millstone)Жерновами$(), я могу измельчать материалы небольшими порциями, получая полезные красители, волокна и шкуры."
+        },
+        {
+            "type": "text",
+            "text": "Однако работа с рукояткой занимает много времени, и я всегда нахожу себя немного голодным к тому времени, когда заканчиваю обработку материалов."
+        },
+        {
+            "type": "relations",
+            "entries": [
+                "innovation/light_machines/millstone"
+            ]
+        }
+    ]
+    
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Райские машины",
+    "icon": "aether_legacy:zanite_gemstone",
+    "category": "innovation_utilities",
+    "advancement": "triumph:advancements/progression/aether/enterAether",
+    "pages": [
+        {
+            "type": "crafting",
+            "recipe": "aether_legacy:freezer",
+            "text": "Замораживающая машина, созданная из материалов из эфира, которую я могу использовать для замораживания воды, чтобы создать лед."
+        },
+        {
+            "type": "crafting",
+            "recipe": "aether_legacy:enchanter",
+            "text": "Магическая ремонтная машина, которая может быть использована для ремонта моих инструментов и доспехов с помощью осколков Амброзия или Электрума."
+        },
+        {
+			"type": "relations",
+			"entries": [
+				
+			]
+		}
+    ]
+}

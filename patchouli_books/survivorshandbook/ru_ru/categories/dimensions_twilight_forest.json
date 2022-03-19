@@ -1,0 +1,8 @@
+{
+  "name": "Сумеречный лес",
+  "description": "Волшебный лес, окутанный вечными сумерками, зеркало обычногоs мира...",
+  "icon": "twilightforest:miniature_structure",
+  "sortnum": 7,
+  "read_by_default": "true",
+  "parent": "dimensions"
+}

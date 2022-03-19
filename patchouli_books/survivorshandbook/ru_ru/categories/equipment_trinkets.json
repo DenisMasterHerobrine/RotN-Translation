@@ -1,0 +1,7 @@
+{
+  "name": "Ожерелья, безделушки",
+  "description": "Наполненные магией ожерелья и снаряжение, дающие уникальные силы и сопротивление.",
+  "icon": "qualitytools:emerald_amulet",
+  "sortnum": 1,
+  "parent": "equipment"
+}

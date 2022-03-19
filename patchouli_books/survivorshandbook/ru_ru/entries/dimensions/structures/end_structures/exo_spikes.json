@@ -1,0 +1,11 @@
+{
+    "name": "Экзошипы",
+    "icon": "biomesoplenty:biome_block",
+    "category": "dimensions_end_structures",
+    "pages": [
+    {
+        "type": "text",
+        "text": "Странные шипы торчат из-под камней Края Мира..."
+      }
+    ]
+  }

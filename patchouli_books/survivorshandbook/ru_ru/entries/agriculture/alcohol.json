@@ -1,0 +1,48 @@
+{
+  "name": "Алкоголь",
+  "icon": "growthcraft_grapes:grapewine",
+  "priority": true,
+  "category": "agriculture_brewing",
+  "advancement": "triumph:advancements/progression/guidebook/make_alcohol",
+  "pages": [
+	{
+	  "type": "item_list_spotlight",
+	  "title": "Алкоголь",
+	  "text": "Сваривая и ферментируя определенные ингредиенты, я могу получить доступ к некоторым крепким напиткам.",
+	  "a":"growthcraft_apples:applecider",
+	  "a_t":"Сидр делается из яблок!",
+	  "a_i":"book:hover_icon.png",
+	  "b":"growthcraft_grapes:grapewine",
+	  "b_t":"Вино делается из винограда!",
+	  "b_i":"book:hover_icon.png",
+	  "c":"growthcraft_bees:mead",
+	  "c_t":"Медовуха делается из мёда!",
+	  "c_i":"book:hover_icon.png",
+	  "d":"growthcraft_rice:sakebottle",
+	  "d_t":"Саке делается из риса!",
+	  "d_i":"book:hover_icon.png",
+	  "e":"growthcraft_hops:hopale",
+	  "e_t":"Эль делается из Хмеля!",
+	  "e_i":"book:hover_icon.png",
+	  "f":"growthcraft_milk:kumisbottle",
+	  "f_t":"Кумыс делается из молока!",
+	  "f_i":"book:hover_icon.png",
+	  "g_i":"book:empty.png",
+	  "text2": "Они изысканны и вызывают эйфорию; они будут держать меня  $(thing)накормленным,$() но будет $(l)снижаться$() моё $(thing)насыщение$() и также я получаю некоторые мощные $(thing)эффекты$(), если немного не $(t:Продолжение употребления алкоголя повысит уровень алкогольного опьянения, после уровня III появится тошнота и слепота.)$(thing)блевану$() правда..."
+	},
+	{
+      "type": "text",
+      "text": "Суть его проста, хотя мало кто знает об этом процессе; я тоже могу $(thing)сварить$() ингредиент в $(item)чайнике$(), или извлечь содержимое из $(t:Яблоко и Виноград)$(thing)сока$() в $(item)дробильная ванне$() или $(item)фруктовый пресс$(). Затем я оставляю результат бродить в бочке.$(br2)После того, как я закончу этот процесс, я могу расслабиться и насладиться плодами своего труда. Вернее, перебродившимися плодами моего труда."
+    },
+    {
+      "type": "relations",
+      "entries": [
+        "agriculture_brewing/boozes"
+      ]
+    },
+	{
+      "type": "text",
+      "text": "$(9)$(l:https://docs.google.com/spreadsheets/d/1ykz1iqWUkarnZC76FGyjKs2wExdOgLJ7XHt3haNOV30/edit#gid=1739283064)Ссылка на таблицу с рецептами Growthcraft."
+    }
+  ]
+}

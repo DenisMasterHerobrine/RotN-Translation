@@ -1,0 +1,13 @@
+{
+  "name": "Пустоши Нижнего Мира",
+  "icon": "minecraft:netherrack",
+  "category": "dimensions_nether",
+  "sortnum": 1,
+  "advancement": "triumph:advancements/progression/nether/enterNether",
+  "pages": [
+  {
+      "type": "text",
+      "text": "Это место представляет собой устрашающий, выжженный огнем пейзаж из выжженных скал и лавы, но он все еще может похвастаться своими необычными формами жизни.$(br2)Я не могу недооценивать угрозу сгореть заживо, если я надеюсь пробраться сюда."
+    }
+  ]
+}

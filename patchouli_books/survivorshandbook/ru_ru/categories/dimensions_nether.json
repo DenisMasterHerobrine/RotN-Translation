@@ -1,0 +1,8 @@
+{
+  "name": "Ад",
+  "description": "В самых глубоких слоях земли находятся адские раскаленные территории...",
+  "icon": "minecraft:netherrack",
+  "sortnum": 3,
+  "read_by_default": "true",
+  "parent": "dimensions"
+}

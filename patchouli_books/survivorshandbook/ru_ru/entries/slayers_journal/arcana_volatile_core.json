@@ -1,0 +1,15 @@
+{
+  "name": "Нестабильное ядро",
+  "icon": "contenttweaker:volatile_core",
+  "category": "slayers_journal_arcana",
+  "advancement": "triumph:advancements/progression/nether/killedQuazar",
+
+  "pages": [
+  	{
+			"type": "spotlight",
+			"title": "Волатильное ядро",
+			"item": "contenttweaker:volatile_core",
+			"text": "$(#734608)$(item)Нестабильное ядро$() $(#734608)выпадает с босса Квазар. Он содержит такую интенсивную энергию внутри, что можно было бы усовершенствовать это ядро в$(item)Магическую бомбу$()$(#734608), которая способна прорваться через $(thing)Барьер Арканы$()$(#734608).$()"
+    }
+  ]
+}

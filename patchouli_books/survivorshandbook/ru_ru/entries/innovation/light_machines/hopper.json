@@ -1,0 +1,24 @@
+{
+    "name": "Фильтрующая воронка",
+    "icon": "betterwithmods:single_machine:2",
+    "category": "innovation_light_machines",
+    "sortnum": 5,
+    "read_by_default": "true",
+    "pages": [
+        {
+            "type": "crafting",
+            "recipe": "crafttweaker:filtered_hopper",
+            "text": "Фильтрующая воронка позволяет селективно отделять такие материалы, как гравий или песок, с помощью различных фильтров."
+        },
+        {
+            "type": "text",
+            "text": "Более того, я могу отфильтровать $(l:innovation/materials/hellfire_dust)огненную пыль$() из измельченного адского камня через фильтр Soul Sand.$(br2) Мне следует убедиться, что фильтрующий бункер имеет механический привод со стороны при обработке Netherrack, однако... измельчение остатков гастов - адское дело, и без стабильности, обеспечиваемой механической силой, я могу оказаться с беспорядком на руках..."
+        },
+        {
+			"type": "relations",
+			"entries": [
+				"innovation/materials/hellfire_dust"
+			]
+		}
+    ]
+}

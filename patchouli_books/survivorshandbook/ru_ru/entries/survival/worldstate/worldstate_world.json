@@ -1,0 +1,20 @@
+{
+  "name": "Раскол Края Мира",
+  "icon": "minecraft:skull:5",
+  "category": "survival_worldstate",
+  "advancement": "triumph:advancements/progression/killedEnderDragon",
+
+  "pages": [
+ 	{
+      "type": "text",
+      "text": "Взрывная смерть проклятого Дракона послала каскад магии через измерения. Я должен ожидать встречи с некоторыми из самых опасных монстров... но все ли они гарантированно будут моими врагами?"
+    },
+    {
+      "type": "relations",
+      "entries": [
+        "adapt/twine",
+        "gather/sticks"
+      ]
+    }
+  ]
+}

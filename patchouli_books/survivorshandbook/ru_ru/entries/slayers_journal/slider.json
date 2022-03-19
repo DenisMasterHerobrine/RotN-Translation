@@ -1,0 +1,30 @@
+{
+  "name": "Слайдер",
+  "icon": "contenttweaker:slider_eye",
+  "category": "slayers_journal",
+  "advancement": "triumph:advancements/progression/aether/enterAether",
+
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(#734608)$(thing)Слайдер$()$(#734608) - это арканное существо, которое можно повредить только киркой. Оно способно управлять гравитацией вокруг себя, а также вызывать приспешников, которые приводят врагов в замешательство. Это нелегкий бой. Будьте готовы к тому, что вас будет швырять во все стороны.$()$(br2)$(#734608)If you manage to kill one, you'll be rewarded with arcane energy powerful$()"
+    },
+    {
+      "type": "entity",
+          "entity": "aether_legacy:slider",
+          "scale": 0.8,
+          "offset": 0,
+          "rotate": "true",
+        "default_rotation": -45,
+        "name": "The Slider",
+        "text": "$(#734608)достаточно, чтобы разрушить барьер, существовавший веками, в самой нижней части мира$()."
+    },
+    {
+      "type": "relations",
+      "entries": [
+		    "slayers_journal/arcana_slider_eye"
+      ]
+    }
+  ]
+}

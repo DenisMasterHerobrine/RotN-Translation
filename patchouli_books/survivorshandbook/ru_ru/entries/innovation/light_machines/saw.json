@@ -1,0 +1,25 @@
+{
+    "name": "Пила",
+    "icon": "betterwithmods:saw",
+    "category": "innovation_light_machines",
+    "sortnum": 3,
+    "read_by_default": "true",
+    "pages": [
+        {
+            "type": "crafting",
+            "recipe": "crafttweaker:saw_block",
+            "text": "Лучший друг плотника. $(br2)Приведённая в действие механическим способом с помощью вращающейся оси, снизу или сбоку, Пила может использоваться для переработки брёвен в доски гораздо эффективнее, чем с помощью ремесла,"
+        },
+        {
+            "type": "text",
+            "text": "при этом получаются такие полезные побочные продукты, как щепки и кора. $(br2)Planks can also be further cut down, allowing me to create smaller and more precise pieces to use in crafting and building. $(br2)Лезвие довольно острое, и мне не следует подходить к нему слишком близко, пока оно вращается. Мне кажется, монстрам это тоже не очень понравится..."
+        },
+        {
+            "type": "relations",
+            "entries": [
+                "survival/newbeginning/wood"
+            ]
+        }
+    ]
+    
+}

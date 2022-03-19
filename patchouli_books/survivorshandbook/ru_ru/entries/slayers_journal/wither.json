@@ -1,0 +1,44 @@
+﻿{
+  "name": "Иссушитель",
+  "icon": "minecraft:skull:1",
+  "category": "slayers_journal",
+  "advancement": "triumph:advancements/progression/end/killedEndDragon",
+
+  "sortnum": 2,
+  "pages": [
+  	{
+			"type": "spotlight",
+			"title": "Увядший и сломленный",
+			"item": "minecraft:skull:1",
+			"text": "$(#734608)Чрезвычайно опасная мерзость, сформированная из останков скелетов-иссушителей. Иссушители могут использовать магию, но скелеты, из которых они сделаны, никогда не могли... Это связано с энергией души или признак чего-то другого?$()$()"
+		},
+	{
+	"type": "multiblock",
+      "name": "Wither Soulmould",
+      "multiblock": {
+        "pattern": [
+					["HHH"],
+					["S0S"],
+					[" S "]
+				],
+        "mapping": {
+          "0": "minecraft:soul_sand",
+          "H": "minecraft:skull[facing=up,nodrop=false]:1",
+		  "S": "minecraft:soul_sand"
+		},
+				"symmetrical": true,
+				"offset"     : [0, 0, 0],
+				"view_offset": [0, 0, 0]
+   		},
+			"text": "$(#734608)Песок душ вызывает некромантическую реакцию в черепах скелетов-иссушителей.$()$()",
+			"enable_visualize": true
+},
+    {
+      "type": "relations",
+      "entries": [
+		"slayers_journal/soulfire_core",
+		"slayers_journal/altar"
+      ]
+    }
+  ]
+}

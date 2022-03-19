@@ -1,0 +1,24 @@
+{
+  "name": "Запись по окружающему миру",
+  "icon": "minecraft:cactus",
+  "category": "environment",
+  "advancement": "triumph:advancements/WIP",
+  "pages": [
+  {
+      "type": "text",
+      "text": "$(item)Щипцы$() позволят вам безопасно обращаться с $(item)цветками$().$(p)$(info) Чтобы взять $(item)цветки$(), $(use)поднимите $(item)цветки$() с помощью $(item)тонгов$().$(p)$(info) $(item)Щипцы$(), удерживаемые в любой руке, поднимут $(item)цветки$(), когда они попадут в ваш инвентарь.$(p)$(info) $(item)Щипцы$() можно использовать с $(item)Блумери$() и $(item)Wither Forge$()."
+    },
+    {
+      "type": "crafting",
+      "recipe": "pyrotech:tool/obsidian_pickaxe",
+      "recipe2": "pyrotech:tool/obsidian_axe"
+    },
+    {
+      "type": "relations",
+      "entries": [
+        "adapt/twine",
+        "gather/sticks"
+      ]
+    }
+  ]
+}

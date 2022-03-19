@@ -1,0 +1,24 @@
+{
+    "name": "Парашют",
+    "icon": "aether_legacy:golden_parachute",
+    "category": "exploration_tools",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "aether_legacy:golden_parachute",
+            "text": "Хотя их можно эффективно использовать только один раз, парашюты, сделанные из воздушных облаков, смогут превратить любое смертельное падение в безопасную посадку."
+        },
+        {
+            "type": "crafting",
+            "recipe": "crafttweaker:cold_parachute",
+            "recipe2": "crafttweaker:golden_parachute"
+        },
+        {
+            "type": "relations",
+            "entries": [
+                "adapt/twine",
+                "gather/sticks"
+            ]
+        }
+    ]
+}

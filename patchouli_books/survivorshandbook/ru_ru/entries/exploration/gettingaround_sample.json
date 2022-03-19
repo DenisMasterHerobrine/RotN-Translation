@@ -1,0 +1,24 @@
+{
+  "name": "Маунты/Подручные животные",
+  "icon": "minecraft:saddle",
+  "category": "exploration",
+  "advancement": "triumph:advancements/WIP",
+  "pages": [
+  {
+      "type": "text",
+      "text": "$(item)Щипцы$() позволят вам безопасно обращаться с $(item)цветками$().$(p)$(info) Чтобы поднять $(item)цветки$(), $(use) возьмите $(item)цветки$() с помощью $(item)тонгов$().$(p)$(info) $(item)Щипцы$(), взятые в любую руку, поднимут $(item)цветки$(), когда они попадут в ваш инвентарь.$(p)$(info) $(item)Щипцы$() можно использовать с $(item)Блумери$() и $(item)Витер Фордж$()."
+    },
+    {
+      "type": "crafting",
+      "recipe": "pyrotech:tool/obsidian_pickaxe",
+      "recipe2": "pyrotech:tool/obsidian_axe"
+    },
+    {
+      "type": "relations",
+      "entries": [
+        "adapt/twine",
+        "gather/sticks"
+      ]
+    }
+  ]
+}

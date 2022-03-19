@@ -1,0 +1,20 @@
+{
+  "name": "Освобождение адской пустоты",
+  "icon": "minecraft:netherrack",
+  "category": "survival_worldstate",
+  "advancement": "triumph:advancements/progression/enteredNether",
+
+  "pages": [
+ 	{
+      "type": "text",
+      "text": "Переход в Нижний мир высвободил часть огненной магии этой земли и влияние на весь остальной мир... Теперь в пещерах и по ночам стало ещё страшнее..."
+    },
+    {
+      "type": "relations",
+      "entries": [
+        "adapt/twine",
+        "gather/sticks"
+      ]
+    }
+  ]
+}

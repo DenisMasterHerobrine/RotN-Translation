@@ -1,0 +1,13 @@
+{
+    "name": "Край мира",
+    "icon": "minecraft:end_stone",
+    "category": "dimensions_end",
+    "sortnum": 4,
+    "advancement": "triumph:advancements/progression/end/enterEnd",
+    "pages": [
+    {
+        "type": "text",
+        "text": "Вот и все.$(br)Конец.$(br2)Сказочное измерение, где запечатан последний Эндер-Дракон.$(br2)Я не могу сейчас повернуть назад, но я приготовился к худшему.$(br2)Давай покорим этот мир. "
+      }
+    ]
+  }

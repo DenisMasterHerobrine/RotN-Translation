@@ -1,0 +1,20 @@
+{
+  "name": "Вечная мерзлота",
+  "icon": "iceandfire:dread_portal",
+  "category": "survival_worldstate",
+  "advancement": "triumph:advancements/progression/killedSunSpirit",
+
+  "pages": [
+ 	{
+      "type": "text",
+      "text": "Когда я победил бога Солнца... (босса), какое-то пугающее присутствие проникло в мой мир. Я предполагаю, что пришла вечная мерзлота в мой мир и всё стало куда плачевнее... Маги, мобы?.."
+    },
+    {
+      "type": "relations",
+      "entries": [
+        "adapt/twine",
+        "gather/sticks"
+      ]
+    }
+  ]
+}

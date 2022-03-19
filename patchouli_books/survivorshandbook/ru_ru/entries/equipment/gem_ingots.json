@@ -1,0 +1,28 @@
+{
+    "name": "Слитки драгоценных камней",
+    "icon": "contenttweaker:four_gem_ingots",
+    "category": "equipment",
+    "advancement": "triumph:advancements/progression/nether/gems",
+    "pages": [
+      {
+        "type": "spotlight",
+        "item": "contenttweaker:four_gem_ingots",
+        "text": "Каждый из драгоценных камней, которые я нашел, обладает своими уникальными свойствами. Я хотел бы попробовать использовать их для создания снаряжения, но, похоже, их нельзя выковать самостоятельно.."
+      },
+      {
+        "type": "text",
+        "text": "Используя $(l:innovation/burn/stoked_flame)котел с топкой$(). Кажется, я умею сочетать драгоценные камни с $(l:innovation/metallurgy/steel)тигельной сталью$(), чтобы сделать правильный сплав драгоценных камней, из которого можно сделать инструменты и доспехи для моих нужд."
+      },
+      {
+        "type": "relations",
+        "entries": [
+            "innovation/metallurgy/ruby",
+            "innovation/metallurgy/diamond",
+            "innovation/metallurgy/sapphire",
+            "innovation/metallurgy/peridot",
+            "innovation/burn/crucible",
+            "innovation/burn/stoked_flame"
+        ]
+      }
+    ]
+  }

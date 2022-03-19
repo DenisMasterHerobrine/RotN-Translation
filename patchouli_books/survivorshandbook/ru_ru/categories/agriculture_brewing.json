@@ -1,0 +1,7 @@
+{
+  "name": "Зельеварение",
+  "description": "Изготовление алкоголя из растительных продуктов может дать мне уникальные преимущества... среди прочих вещей.",
+  "icon": "growthcraft_cellar:ferment_barrel",
+  "sortnum": 3,
+  "parent": "agriculture"
+}

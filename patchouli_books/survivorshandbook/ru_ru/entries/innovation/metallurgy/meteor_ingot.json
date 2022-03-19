@@ -1,0 +1,23 @@
+{
+    "name": "Метеоритный слиток",
+    "icon": "nyx:meteor_ingot",
+    "category": "innovation_metallurgy",
+    "advancements": "triumph:advancements/bosskills/killedQuazar",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "nyx:meteor_ingot",
+            "text": "Очень уникальный сплав железа, этот материал с примесью метеорита кажется намного прочнее железа. $(br2)Я могу использовать его для создания мощных инструментов и брони, превосходящих даже $(thing)духовную сталь$()."
+        },
+        {
+            "type": "text",
+            "text": "Я могу создать его, позаимствовав силу $(l:slayers_journal/quazar)Казара$() из летучего порошка и 12 метеоритных осколков, которые я собрал после метеоритных ударов, вместе в раскаленном тигле, чтобы получить 12 $(thing)метеоритных слитков$()."
+        },
+        {
+			"type": "relations",
+			"entries": [
+				"slayers_journal/quazar"
+			]
+		}
+    ]
+}

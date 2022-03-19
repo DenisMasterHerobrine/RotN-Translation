@@ -1,0 +1,18 @@
+{
+    "name": "Дикие ягоды",
+    "icon": "rustic:wildberries",
+    "category": "survival_gathering",
+    "read_by_default": "true",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Эти ярко-красные ягоды имеют легкую сладость. Хотя они не очень сытные, я могу найти их практически в любой среде и в любое время года."
+        },
+        {
+            "type": "relations",
+            "entries": [
+                "agriculture/fiber_crops"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Винтовой насос",
+    "icon": "betterwithmods:screw_pump",
+    "category": "innovation_utilities",
+    "read_by_default": "true",
+    "pages": [
+        {
+            "type": "crafting",
+            "recipe": "crafttweaker:pump_block",
+            "text": "Интересная машина, которая качает воду вверх, образуя частичный поток сверху. Работает только тогда, когда я обеспечиваю поток воды в его входное отверстие и механическую энергию снизу."
+        },
+        {
+			"type": "relations",
+			"entries": [
+				
+			]
+		}
+    ]
+}

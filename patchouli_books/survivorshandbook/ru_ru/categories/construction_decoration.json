@@ -1,0 +1,7 @@
+{
+  "name": "Декорации",
+  "description": "Что хорошего на базе, если оно не похоже на дом?",
+  "icon": "quark:framed_glass_pane",
+  "sortnum": 3,
+  "parent": "construction"
+}

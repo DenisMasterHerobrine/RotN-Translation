@@ -1,0 +1,11 @@
+{
+    "name": "Замок Валькирии",
+    "icon": "aether_legacy:angelic_double_slab",
+    "category": "dimensions_aether_structures",
+    "pages": [
+    {
+        "type": "text",
+        "text": "Замок Валькирии находится в воздухе посреди летающих островов."
+      }
+    ]
+  }

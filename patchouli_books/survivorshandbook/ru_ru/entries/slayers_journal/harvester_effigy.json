@@ -1,0 +1,45 @@
+{
+  "name": "Жнец Темноты",
+  "icon": "harvestersnight:harvester_scythe",
+  "category": "slayers_journal",
+  "advancement": "triumph:advancements/progression/slayersjournal",
+
+  "sortnum": 1,
+  "pages": [
+  	{
+			"type": "spotlight",
+			"title": "Освещение плетеного человека",
+			"item": "minecraft:lit_pumpkin",
+			"text": "$(#734608)Жнец – это не столько чудовище, сколько сила природы. Я узнал этот темный ритуал от ведьмы: построив одно из этих чучел вокруг $(l:slayers_journal/soulfire_core)$(item)Шасси Душ (Soulfire Chassis)$() $(#734608)Как только вы подведёте ритуал - вы вызовете духа Жнеца... Готов ли я на такой шаг?$() Жнец имеет несколько фаз. Будьте максимально готовы!"
+		},
+	{
+	"type": "multiblock",
+      "name": "Чучело Жнеца",
+      "multiblock": {
+        "pattern": [
+					[" J ", "   "],
+					["H0H", "   "],
+					[" B ", " S "]
+				],
+        "mapping": {
+          "0": "betternether:bone_block",
+          "J": "minecraft:lit_pumpkin[facing=east]",
+          "H": "minecraft:hay_block",
+		  "B": "betternether:bone_block",
+		  "S": "multiblockmobs:soul_chassis[facing=east]"
+		},
+				"symmetrical": true,
+				"offset"     : [0, 0, 0],
+				"view_offset": [0, 0, 0]
+   		},
+			"text": "$(#734608)Зажженная тыква, тюки сена и затвердевшие кости образуют тело.$()",
+			"enable_visualize": true
+},
+    {
+      "type": "relations",
+      "entries": [
+        "slayers_journal/soulfire_core"
+      ]
+    }
+  ]
+}

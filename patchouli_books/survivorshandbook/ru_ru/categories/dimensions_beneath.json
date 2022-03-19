@@ -1,0 +1,8 @@
+{
+  "name": "Глубокие земли",
+  "description": "Темная и опасная часть поверхности, под древним барьером...",
+  "icon": "dimstack:bedrock",
+  "sortnum": 5,
+  "read_by_default": "true",
+  "parent": "dimensions"
+}

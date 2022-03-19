@@ -1,0 +1,8 @@
+{
+  "name": "Райские острова",
+  "description": "Светлое, небесное царство далеко за облаками...",
+  "icon": "aether_legacy:aether_dirt",
+  "sortnum": 4,
+  "read_by_default": "true",
+  "parent": "dimensions"
+}

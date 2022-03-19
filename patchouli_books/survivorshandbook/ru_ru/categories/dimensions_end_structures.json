@@ -1,0 +1,8 @@
+{
+  "name": "Структура",
+  "description": "Архитектура потерянной цивилизации...",
+  "icon": "minecraft:purpur_block",
+  "sortnum": 2,
+  "read_by_default": "true",
+  "parent": "dimensions_end"
+}

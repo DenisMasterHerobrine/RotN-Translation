@@ -1,0 +1,26 @@
+{
+    "name": "Стол для изготовления изделий",
+    "icon": "artisanworkstumps:workstump_potter",
+    "category": "innovation_advanced_crafting",
+    "sortnum": 1,
+    "read_by_default": "true",
+    "pages": [
+        {
+            "type": "crafting",
+            "recipe": "crafttweaker:wares_table",
+            "text": "Станция изготовления изделий - это простая мастерская; я могу использовать $(item)резной нож$(), чтобы помочь себе в работе с мягкими материалами, формовке и ваянии."
+        },
+        {
+            "type": "text",
+            "text": "Основная предпосылка скульптуры начинается с полного блока материала. Вырезая и сглаживая различные сегменты, я могу создавать качественные реципиенты или замысловатые формы. $(br2)Если я когда-нибудь захочу $(thing)автоматизировать$() любой из этих процессов, мне следует обратить внимание на $(l:innovation/light_machines/turntable)токарный стол$()."
+        },
+        {
+            "type": "relations",
+            "entries": [
+                "innovation/pottery",
+                "innovation/kiln",
+                "innovation/turntable"
+            ]
+        }
+    ]
+}

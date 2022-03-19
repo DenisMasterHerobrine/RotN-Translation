@@ -1,0 +1,24 @@
+{
+    "name": "Пыль адского пламени",
+    "icon": "betterwithmods:material:16",
+    "category": "innovation_materials",
+    "advancement": "triumph:advancements/progression/nether/enterNether",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "betterwithmods:material:16",
+            "text": "Отфильтрованная огненная эссенция из Недр, получаемая путем процеживания $(thing)измельченного Незеррака$() через $(l:innovation/light_machines/hopper)фильтрующую воронку с песком души$()."
+        },
+        {
+            "type": "text",
+            "text": "Из нее можно получить осадок недр, концентрированное адское пламя, $(l:innovation/materials/nether_coal)нетерский уголь$(), взрывное масло в сочетании с другими предметами в $(l:innovation/burn/cauldron)варочном котле$(), и т.д. $(br2)Концентрированное адское пламя используется для изготовления $(l:innovation/burn/hibachi)хибачи$(), полезной для растопки котла или тигля.$(br2)Примечание: НЕ нагревайте с помощью раскаленного пламени."
+        },
+        {
+			"type": "relations",
+			"entries": [
+                "innovation/light_machines/hopper",
+				"innovation/materials/nether_coal"
+			]
+		}
+    ]
+}

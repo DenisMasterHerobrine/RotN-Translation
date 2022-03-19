@@ -1,0 +1,24 @@
+{
+  "name": "Технологические безделушки",
+  "icon": "minecraft:piston",
+  "category": "innovation_tech",
+  "advancement": "triumph:advancements/WIP",
+  "pages": [
+ {
+      "type": "text",
+      "text": "$(item)Щипцы$() позволят вам безопасно обращаться с $(item)цветами$().$(p)$(info) Чтобы взять $(item)цвет$(), $(use)поднесите $(item)цвет$() к $(item)цвету$() с помощью $(p)тонгов$(info).$(item)$() $(item)Щипцы$(), взятые в любую руку, поднимут $(p)цвет$(info), когда он попадет в ваш инвентарь.$(item)$() $(item)Щипцы$() можно использовать с $(item)Блумери$() и Витер Фордж$(undefined).$(undefined)"
+    },
+    {
+      "type": "crafting",
+      "recipe": "pyrotech:tool/obsidian_pickaxe",
+      "recipe2": "pyrotech:tool/obsidian_axe"
+    },
+    {
+      "type": "relations",
+      "entries": [
+        "adapt/twine",
+        "gather/sticks"
+      ]
+    }
+  ]
+}

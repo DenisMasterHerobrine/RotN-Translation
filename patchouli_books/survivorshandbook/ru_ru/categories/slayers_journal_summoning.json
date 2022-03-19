@@ -1,0 +1,7 @@
+{
+  "name": "Журнал Палача: Призывы",
+  "description": "$(#734608)Некоторые из самых опасных противников не могут быть найдены случайно. Они должны быть $(thing)призваны чем-то.",
+  "icon": "multiblockmobs:soul_chassis",
+  "sortnum": 1,
+  "parent": "slayers_journal"
+}

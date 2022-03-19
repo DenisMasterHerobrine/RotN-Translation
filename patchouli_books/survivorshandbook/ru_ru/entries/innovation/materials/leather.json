@@ -1,0 +1,30 @@
+{
+    "name": "Кожа",
+    "icon": "betterwithmods:material:6",
+    "category": "innovation_materials",
+    "read_by_default": "true",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "betterwithmods:material:6",
+            "text": "$(thing)Кожа$() - важный материал для создания высококачественного оборудования и инструментов. Однако, чтобы она выдержала испытание временем при использовании в ремесле, мне нужно будет правильно обработать ее и дубить. О, возможности! Я мечтаю о полезных вещах, от $(l:exploration/tools/backpack)рюкзаков$() до пластинчатых доспехов..."
+        },
+        {
+            "type": "text",
+            "text": "Сначала мне нужно очистить кожу, пропустив ее через $(l:innovation/light_machines/millstone)мельничный камень$(), чтобы получить очищенную кожу.$(br2) Затем я должен бросить ее в котел с 4 кусками $(thing)древесной коры$() или 1 куском $(thing)навоза$(), чтобы получить дубленую кожу.$(br2) После этого я могу разрезать кожу на куски и кожаные ремни с помощью ножниц, если нужно."
+        },
+        {
+            "type": "crafting",
+            "recipe": "betterwithmods:items/tanned_leather_cut",
+            "recipe2": "betterwithmods:items/material/leather_strap"
+        },
+        {
+			"type": "relations",
+			"entries": [
+                "exploration/tools/backpack",
+                "exploration/tools/toolbelt",
+				"innovation/light_machines/millstone"
+			]
+		}
+    ]
+}

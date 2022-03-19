@@ -1,0 +1,24 @@
+{
+  "name": "Запись по готовке еды",
+  "icon": "minecraft:furnace",
+  "category": "agriculture_cooking",
+  "advancement": "triumph:advancements/WIP",
+  "pages": [
+ {
+      "type": "text",
+      "text": "$(item)Щипцы$() позволят безопасно обращаться с $(item)цветами$().$(p)$(info) Чтобы подобрать $(item)цветы$(), $(use) $(item)щипцы$() с $(item)цветами$().$(p)$(info) $(item) или просто щипцы (непонятная игра слов?)$() держа в любой руке будет подбирать $(item)цветы$() когда они попадают в инвентарь.$(p)$(info) $(item)Щипцы$() могут быть использованы вместе с $(item)Bloomery$() и $(item)Иссушающей Кузнёй (Wither Forge)$()."
+    },
+    {
+      "type": "crafting",
+      "recipe": "pyrotech:tool/obsidian_pickaxe",
+      "recipe2": "pyrotech:tool/obsidian_axe"
+    },
+    {
+      "type": "relations",
+      "entries": [
+        "adapt/twine",
+        "gather/sticks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Глаз Слайдера",
+  "icon": "contenttweaker:slider_eye",
+  "category": "slayers_journal_arcana",
+  "advancement": "triumph:advancements/progression/aether/killedSlider",
+
+  "pages": [
+  	{
+			"type": "spotlight",
+			"title": "Глаз слайдера",
+			"item": "contenttweaker:slider_eye",
+			"text": "$(#734608)$(item)Глаз Слайдера$() $(#734608)выпадает из Слайдеров. Его можно превратить в  $(item)Фокус Арканы$()$(#734608), который способен выкачивать энергию из $(thing)Барьера Арканы$()$(#734608) и хранить её внутри, в процессе разрушая барьер.$()"
+    }
+  ]
+}

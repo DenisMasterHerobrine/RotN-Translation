@@ -1,0 +1,101 @@
+{
+  "name": "Получение еды: Мясо & Овощи",
+  "icon": "minecraft:cooked_chicken",
+  "category": "survival_newbeginning",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "item_list_spotlight",
+      "title": "Мясо",
+      "text": "Здесь, кажется, какие-то животные вокруг. Я был бы не против немного белка, чтобы получить меня в течение дня! Вот несколько вариантов :",
+      "a":"minecraft:beef",
+      "a_t":"Говядина из быков и коров.",
+      "a_i":"book:hover_icon.png",
+      "b":"minecraft:porkchop",
+      "b_t":"Свинина из свиней.",
+      "b_i":"book:hover_icon.png",
+      "c":"minecraft:chicken",
+      "c_t":"Курица... э-э, из куриц.",
+      "c_i":"book:hover_icon.png",
+      "d":"minecraft:rabbit",
+      "d_t":"Кролик из оленей и кроликов.",
+      "d_i":"book:hover_icon.png",
+      "e":"minecraft:mutton",
+      "e_t":"Баранина от баранов и овец.",
+      "e_i":"book:hover_icon.png",
+      "f":"betteranimalsplus:venisonraw",
+      "f_t":"Оленина из оленя.",
+      "f_i":"book:hover_icon.png",
+      "g":"animania:raw_chevon",
+      "g_t":"Chevon from does and bucks.",
+      "g_i":"book:hover_icon.png",
+      "text2": "Есть сырое мясо не очень приятно, а в некоторых случаях даже опасно. На данный момент любое мясо, которое я собираю у животных, должно быть отправлено в печь и приготовлено."
+    },
+    {
+      "type": "text",
+      "text": "Конечно, это не единственное мясо, которое я могу найти; почти у каждого животного, с которым я могу столкнуться, есть что-нибудь вкусненькое на костях, от самых маленьких лягушек до самых неповоротливых быков. $(br2)При этом я не должен ожидать, что все они падут без боя.$(br2)Убийство животных также дает много полезных побочных продуктов, таких как $(thing)сало$(), $(thing)кожа$ (), $(thing)шерсть$() и $(thing)перья$(), которые могут пригодиться позже."
+    },
+    {
+      "type": "item_list_spotlight",
+      "title": "Морепродукты",
+      "text": "Вокруг полно водоемов; если я чувствую себя пескатарианцем, я всегда могу выбрать что-то более водное:",
+      "a_i":"book:empty.png",
+      "b":"minecraft:fish",
+      "b_t":"Fish from fishing.",
+      "b_i":"book:hover_icon.png",
+      "c":"minecraft:fish:1",
+      "c_t":"Salmon from rivers.",
+      "c_i":"book:hover_icon.png",
+      "d":"betteranimalsplus:eel_meat_raw",
+      "d_t":"Eels from rivers. Like to bite.",
+      "d_i":"book:hover_icon.png",
+      "e":"quark:crab_leg",
+      "e_t":"Crab from beaches. Don't get too close!",
+      "e_i":"book:hover_icon.png",
+      "f":"mod_lavacow:piranha",
+      "f_t":"Piranhas from ponds and lakes. Very feisty.",
+      "f_i":"book:hover_icon.png",
+      "g_i":"book:empty.png",
+      "text2": "Помимо того, что я сам добыл морепродукты и испачкал руки, я также могу расслабиться и отправиться на рыбалку, сделав грубую удочку, например:"
+    },
+    {
+      "type": "crafting",
+      "recipe": "crafttweaker:crude_fishing_pole",
+      "text": "После того, как рыба клюнет на крючок, я должен быстро подтянуться, прежде чем она успеет сбежать.$(br2)Я не должен ожидать, что что-то, что так наспех слеплено, прослужит долго; он может неожиданно сломаться после намотки чего-либо."
+    },
+    {
+      "type": "item_list_spotlight",
+      "title": "Сады",
+      "text": "Помимо различных корней и семян, которые я могу найти и съесть, иногда на поверхности можно найти сады:",
+      "a":"harvestcraft:aridgarden",
+      "a_t":"Found in arid and hot regions, like deserts.",
+      "a_i":"book:hover_icon.png",
+      "b":"harvestcraft:frostgarden",
+      "b_t":"Found in cold and snowy areas.",
+      "b_i":"book:hover_icon.png",
+      "c":"harvestcraft:shadedgarden",
+      "c_t":"Found in forested and dense biomes.",
+      "c_i":"book:hover_icon.png",
+      "d":"harvestcraft:soggygarden",
+      "d_t":"Found in swampy and wet biomes, like bogs.",
+      "d_i":"book:hover_icon.png",
+      "e":"harvestcraft:tropicalgarden",
+      "e_t":"Found in humid and tropical climates, like jungles.",
+      "e_i":"book:hover_icon.png",
+      "f":"harvestcraft:windygarden",
+      "f_t":"Found in sparser and more clear areas, like plains.",
+      "f_i":"book:hover_icon.png",
+      "g_i":"book:empty.png",
+      "text2": "Breaking these gardens give me a variety of fruits and vegetables, which can either be eaten right away or turned into seeds for planting later."
+    },
+    {
+      "type": "text",
+      "text": "В каждом саду есть фрукты и овощи, адаптированные к условиям региона, в котором они произрастают; так что что-то вроде $(thing)зимнего кабачка$() можно найти только в морозном саду. Кое-что, что нужно иметь в виду при создании ферм узнаю позже. $(br2)$(italics)$(#a84b0f)Подсказка: Сломав сад, приседая, вы получите дроп с самого сада, который можно перезасадить и сломан позже. Неплохо для сохранения места в инвентаре.$()"
+    },
+    {
+      "type": "relations",
+      "entries": [
+      ]
+    }
+  ]
+}

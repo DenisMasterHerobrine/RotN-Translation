@@ -1,0 +1,20 @@
+{
+    "name": "Сушилка",
+    "icon": "pyrotech:tinder",
+    "category": "innovation_heavy_machines",
+    "sortnum": 1,
+    "read_by_default": "true",
+    "pages": [
+        {
+            "type": "crafting",
+            "recipe": "crafttweaker:ct_shaped-1031363119",
+            "text": "Более продвинутая сушилка. Создав структуру сушилки с помощью чертежа, я могу легче обрабатывать свои материалы."
+        },
+        {
+			"type": "relations",
+			"entries": [
+				
+			]
+		}
+    ]
+}

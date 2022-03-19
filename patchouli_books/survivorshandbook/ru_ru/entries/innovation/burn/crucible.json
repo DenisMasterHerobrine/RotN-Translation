@@ -1,0 +1,24 @@
+{
+    "name": "Тигель",
+    "icon": "betterwithmods:cooking_pot:0",
+    "category": "innovation_burn",
+    "sortnum": 4,
+    "read_by_default": "true",
+    "pages": [
+        {
+            "type": "kiln_spotlight",
+            "title": "Тигель",
+            "input": "contenttweaker:crucible:0",
+            "output": "betterwithmods:cooking_pot",
+            "time": "3:30min",
+            "text": "С помощью этого приспособления - я могу генерировать достаточно тепла, чтобы иметь возможность обрабатывать $(l:innovation/metallurgy/steel)сталь.$()$(br2) Я могу полностью раскочегарить его, располагая зажженные костры под ним в горизонтальной области 3x3."
+        },
+        {
+			"type": "relations",
+			"entries": [
+                "innovation/burn/kiln",
+				"innovation/pottery"
+			]
+		}
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Механическая сила",
+  "icon": "minecraft:lever",
+  "category": "innovation_mechpower",
+  "advancement": "triumph:advancements/WIP",
+  "pages": [
+  {
+      "type": "text",
+      "text": "$(item)Щипцы$() позволят вам безопасно работать с $(item)цветками$().$(p)$(info) Чтобы взять $(item)цветки$(), $(use) возьмите $(item)цветки$() с помощью $(item)тонгов$().$(p)$(info) $(item)Щипцы$(), удерживаемые в любой руке, возьмут $(item)цветки$(), когда они попадут в ваш инвентарь.$(p)$(info) $(item)Щипцы$() можно использовать с $(item)Блумери$() и $(item)Увядшей кузницей$()."
+    },
+    {
+      "type": "crafting",
+      "recipe": "pyrotech:tool/obsidian_pickaxe",
+      "recipe2": "pyrotech:tool/obsidian_axe"
+    },
+    {
+      "type": "relations",
+      "entries": [
+        "adapt/twine",
+        "gather/sticks"
+      ]
+    }
+  ]
+}

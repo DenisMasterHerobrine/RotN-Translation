@@ -1,0 +1,25 @@
+{
+    "name": "Медь",
+    "icon": "simpleores:copper_ingot",
+    "category": "innovation_metallurgy",
+    "advancement": "triumph:advancements/ores/copper",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "simpleores:copper_ingot",
+            "text": "Хрупкая, но обильная, обычно встречается на открытых каменных поверхностях, таких как скалы, или в неглубоких уровнях пещер. $(br2)Из нее можно сделать не так много; возможно, некоторые основные инструменты и оружие."
+        },
+        {
+            "type": "text",
+            "text": "Возможно, я смогу его обработать или как-то улучшить? Но для этого мне понадобится надежное место для работы.$(br2) В любом случае, я должен собрать все, что смогу найти, на случай, если это пригодится в будущем."
+        },
+        {
+            "type": "relations",
+            "entries": [
+                "innovation/burn/kiln",
+                "innovation/metallurgy/bronze"
+            ]
+        }
+    ]
+    
+}

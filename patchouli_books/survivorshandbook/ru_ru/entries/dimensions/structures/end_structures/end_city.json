@@ -1,0 +1,11 @@
+{
+    "name": "Город Края",
+    "icon": "minecraft:end_bricks",
+    "category": "dimensions_end_structures",
+    "pages": [
+    {
+        "type": "text",
+        "text": "В нём можно встретить Шалкеров и полезный лут."
+      }
+    ]
+  }

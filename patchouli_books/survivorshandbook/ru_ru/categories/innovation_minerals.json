@@ -1,0 +1,7 @@
+{
+  "name": "Минералы",
+  "description": "Природные ресурсы, которые можно перерабатывать и производить.",
+  "icon": "minecraft:diamond",
+  "sortnum": 0,
+  "parent": "innovation"
+}

@@ -1,0 +1,19 @@
+{
+  "sortnum": 2,
+  "name": "Ягоды боярышника",
+  "icon": "biomesoplenty:berries",
+  "category": "survival_gathering",
+  "read_by_default": "true",
+  "pages": [
+	{
+      "type": "text",
+      "text": "Эти маленькие ягоды мягкие, но сочные. Они растут только в очень колючих кустах, что затрудняет их сбор. Буквально. Тем не менее, они быстро отрастают, и кусты, кажется, не требовательны к окружающей среде или сезону."
+    },
+    {
+      "type": "relations",
+      "entries": [
+        "agriculture/fiber_crops"
+      ]
+    }
+  ]
+}

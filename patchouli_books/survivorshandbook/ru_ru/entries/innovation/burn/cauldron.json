@@ -1,0 +1,20 @@
+{
+    "name": "Котел",
+    "icon": "betterwithmods:cooking_pot:1",
+    "category": "innovation_burn",
+    "sortnum": 3,
+    "read_by_default": "true",
+    "pages": [
+        {
+            "type": "crafting",
+            "recipe": "crafttweaker:cooking_cauldron",
+            "text": "Этот котел можно использовать не только для быстрого и легкого приготовления различных блюд, но и для получения множества различных материалов, таких как $(l:innovation/materials/leather)дубленая кожа$(), взрывное масло и т.д."
+        },
+        {
+			"type": "relations",
+			"entries": [
+				
+			]
+		}
+    ]
+}
