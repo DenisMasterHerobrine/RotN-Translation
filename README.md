@@ -1,13 +1,15 @@
 ![](https://img.shields.io/github/license/DenisMasterHerobrine/RotN-Translation)
 ![](https://img.shields.io/github/issues/DenisMasterHerobrine/RotN-Translation)
-![](https://img.shields.io/github/repo-size/DenisMasterHerobrine/RotN-Translation)
+![](https://img.shields.io/github/languages/code-size/DenisMasterHerobrine/RotN-Translation)
 ![](https://img.shields.io/github/downloads/DenisMasterHerobrine/RotN-Translation)
 ![](https://img.shields.io/github/v/release/DenisMasterHerobrine/RotN-Translation?display_name=tag)
 
 <div align="center"> <h1> Rebirth of the Night Translations Pack </h1> </div>
-<div align="center"> A resourcepack, which translates all [Rebirth of the Night](https://rebirthofthenight.com) modpack items, guidebooks and other things to other languages.</div>
+
+<div align="center"> A resourcepack/set of language files, which translates all Rebirth of the Night modpack items, guidebooks and other things to other languages.</div>
 
 <div align="center"> <h1>  Information </h1> </div>
+
 This resourcepack translates everything related to RotN modpack. Translated text originally commited here is licensed under MIT License. Other things as parts of CraftTweaker scripts and etc. from Rebirth of the Night modpack and licensed under [RotN License](https://github.com/Rebirth-of-the-Night/Rebirth-Of-The-Night/blob/master/LICENSE.md)
 
 <div align="center"> <h1>  Translations </h1> </div>
