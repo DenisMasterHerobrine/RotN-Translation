@@ -1,8 +1,8 @@
 ![](https://img.shields.io/github/license/DenisMasterHerobrine/RotN-Translation)
 ![](https://img.shields.io/github/issues/DenisMasterHerobrine/RotN-Translation)
 ![](https://img.shields.io/github/languages/code-size/DenisMasterHerobrine/RotN-Translation)
-![](https://img.shields.io/github/downloads/DenisMasterHerobrine/RotN-Translation)
-![](https://img.shields.io/github/v/release/DenisMasterHerobrine/RotN-Translation?display_name=tag)
+![](https://img.shields.io/github/downloads/DenisMasterHerobrine/RotN-Translation/total)
+![](https://img.shields.io/github/v/tag/DenisMasterHerobrine/RotN-Translation?display_name=tag)
 
 <div align="center"> <h1> Rebirth of the Night Translations Pack </h1> </div>
 
