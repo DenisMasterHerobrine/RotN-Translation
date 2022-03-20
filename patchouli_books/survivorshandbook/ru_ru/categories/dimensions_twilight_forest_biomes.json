@@ -1,6 +1,6 @@
 {
   "name": "Биомы",
-  "description": "Биомы сумерек, окутанные не меньшей тайной, чем тьмой.",
+  "description": "Биомы сумерек, окутанные не меньшей тайной, чем тьма.",
   "icon": "biomesoplenty:terrarium:8",
   "sortnum": 1,
   "read_by_default": "true",
