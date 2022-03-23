@@ -13,9 +13,9 @@
       "type": "cauldron_recipe",
 	  "input_item": "contenttweaker:magic_blend",
 	  "tip1": "Lunar water",
-	  "tip2": "1 Bottle",
+	  "tip2": "1 бутылёк",
 	  "output": "dungeontactics:magic_powder",
-	  "text": "Погружая эту смесь в лунную воду (Moon Water), я могу создавать порошки, наполненные силой луны; достаточно, чтобы питать волшебные палочки."
+	  "text": "Погружая эту смесь в лунную воду, я могу создавать порошки, наполненные силой луны; достаточно, чтобы питать волшебные палочки."
     },
     {
       "type": "relations",
