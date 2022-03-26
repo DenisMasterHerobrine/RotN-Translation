@@ -1,6 +1,6 @@
 setIcon(<quark:sturdy_stone>)
-setTitle("Tough as Stone")
-setDescription("Sturdy Stone and all Stone Bricks have increased hardness and are great for walls!")
+setTranslatedTitle("advancements.basedefense.sturdy_stone.title")
+setTranslatedDescription("advancements.basedefense.sturdy_stone.description")
 
 addParent("triumph:advancements/basedefense/root")
 

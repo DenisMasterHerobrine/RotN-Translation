@@ -1,6 +1,6 @@
 setIcon(<minetraps:spikes_toxic>)
-setTitle("Toxic Spikes")
-setDescription("Toxins do not work against most monsters. Needs redstone power.")
+setTranslatedTitle("advancements.basedefense.toxic_spikes.title")
+setTranslatedDescription("advancements.basedefense.toxic_spikes.description")
 
 addParent("triumph:advancements/basedefense/spikes")
 

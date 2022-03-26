@@ -1,6 +1,6 @@
 setIcon(<minetraps:explosive_mine>)
-setTitle("Mine")
-setDescription("WARNING! The blast radius is very large. Should only be used for extreme measures.")
+setTranslatedTitle("advancements.basedefense.mine.title")
+setTranslatedDescription("advancements.basedefense.mine.description")
 
 addParent("triumph:advancements/basedefense/bear_trap")
 

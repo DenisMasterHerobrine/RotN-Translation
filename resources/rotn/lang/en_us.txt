@@ -1,0 +1,78 @@
+################################################
+### Rebirth of the Night Custom Advancements ###
+################################################
+# Base Defense
+advancements.basedefense.barbed_wire.title=Barbed Wire
+advancements.basedefense.barbed_wire.description=Slows and minimally damages mobs.
+
+advancements.basedefense.barbed_wire_fence.title=Barbed Wire Fence
+advancements.basedefense.barbed_wire_fence.description=Same as Barbed Wire except it can not be walked through.
+
+advancements.basedefense.bear_trap.title=Bear Trap
+advancements.basedefense.bear_trap.description=Completely immobilizes mobs and continuously damages them. Does not need to be reset.
+
+advancements.basedefense.caltrops.title=Caltrops
+advancements.basedefense.caltrops.description=A simple early game defense trap. Lead zombies in with light sources!
+
+advancements.basedefense.clamp_trap.title=Clamp Trap
+advancements.basedefense.clamp_trap.description=Holds a mob in place for a few seconds and damages them. Requires a Wrench to reset.
+
+advancements.basedefense.dungarees.title=Engineer's Dungarees
+advancements.basedefense.dungarees.description=A must-have for working with base defenses!
+
+advancements.basedefense.dungarees_boots.title=Engineer's Dungarees
+advancements.basedefense.dungarees_boots.description=A must-have for working with base defenses!
+
+advancements.basedefense.fan.title=Fan
+advancements.basedefense.fan.description=Pushes mobs away when powered by redstone. More fans behind it increase the push power.
+
+advancements.basedefense.fire_trap.title=Fire Trap
+advancements.basedefense.fire_trap.description=Sets mobs on fire that walk on it. Needs to be reset after each use.
+
+advancements.basedefense.flamer_block.title=Flamer
+advancements.basedefense.flamer_block.description=Pushes mobs away and lights them on fire when powered by redstone. More flamers behind it increase the push power.
+
+advancements.basedefense.mine.title=Mine
+advancements.basedefense.mine.description=WARNING! The blast radius is very large. Should only be used for extreme measures.
+
+advancements.basedefense.nails.title=Nails
+advancements.basedefense.nails.description=A crafting material used for many useful traps.
+
+advancements.basedefense.port_trap.title=Port Trap
+advancements.basedefense.port_trap.description=Teleports mobs away that walk on it. Needs to be reset after each use.
+
+advancements.basedefense.powered_bars.title=Powered Bars
+advancements.basedefense.powered_bars.description=Does more damage than the Barbed Wire Fence, but does not slow.
+
+advancements.basedefense.razor_wire.title=Razor Wire
+advancements.basedefense.razor_wire.description=Does more damage than Barbed Wire.
+
+advancements.basedefense.root.title=Base Defense
+advancements.basedefense.root.description=Base Defense
+
+advancements.basedefense.spectral_trap.title=Spectral Trap
+advancements.basedefense.spectral_trap.description=Highlights mobs through walls that walk on it. Needs to be reset after each use.
+
+advancements.basedefense.spikes.title=Spikes
+advancements.basedefense.spikes.description=Kills mobs significantly faster than Nail Traps. Needs redstone power.
+
+advancements.basedefense.sturdy_stone.title=Tough as Stone
+advancements.basedefense.sturdy_stone.description=Sturdy Stone and all Stone Bricks have increased hardness and are great for walls!
+
+advancements.basedefense.toxic_mine.title=Toxic Mine
+advancements.basedefense.toxic_mine.description=A much smaller explosion radius, but a large radius of toxins. Toxins do not work against most monsters.
+
+advancements.basedefense.toxic_nail_trap.title=Toxic Nail Trap
+advancements.basedefense.toxic_nail_trap.description=Toxins do not work against most monsters.
+
+advancements.basedefense.toxic_spikes.title=Toxic Spikes
+advancements.basedefense.toxic_spikes.description=Toxins do not work against most monsters. Needs redstone power.
+
+advancements.basedefense.vine_trap.title=Vine Trap
+advancements.basedefense.vine_trap.description=Mobs will think this is walkable, but will fall right through it! Great for moats.
+
+advancements.basedefense.well.title=Well, well, well
+advancements.basedefense.well.description=Allows for infinite water. Very useful for setting up base defenses.
+
+advancements.basedefense.wrench.title=Iron Engineer's Wrench
+advancements.basedefense.wrench.description=Used to repair and reset many traps.

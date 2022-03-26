@@ -1,6 +1,6 @@
 setIcon(<minetraps:barbed_wire>)
-setTitle("Barbed Wire")
-setDescription("Slows and minimally damages mobs.")
+setTranslatedTitle("advancements.basedefense.barbed_wire.title")
+setTranslatedDescription("advancements.basedefense.barbed_wire.description")
 
 addParent("triumph:advancements/basedefense/spikes")
 

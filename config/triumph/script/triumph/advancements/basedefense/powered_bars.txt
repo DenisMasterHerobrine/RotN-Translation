@@ -1,6 +1,6 @@
 setIcon(<dungeontactics:powered_bars>)
-setTitle("Powered Bars")
-setDescription("Does more damage than the Barbed Wire Fence, but does not slow.")
+setTranslatedTitle("advancements.basedefense.powered_bars.title")
+setTranslatedDescription("advancements.basedefense.powered_bars.description")
 
 addParent("triumph:advancements/basedefense/barbed_wire_fence")
 

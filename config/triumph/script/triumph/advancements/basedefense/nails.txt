@@ -1,6 +1,6 @@
 setIcon(<minetraps:nails>)
-setTitle("Nails")
-setDescription("A crafting material used for many useful traps.")
+setTranslatedTitle("advancements.basedefense.nails.title")
+setTranslatedDescription("advancements.basedefense.nails.description")
 
 addParent("triumph:advancements/basedefense/caltrops")
 

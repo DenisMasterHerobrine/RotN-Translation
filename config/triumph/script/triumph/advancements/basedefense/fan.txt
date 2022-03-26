@@ -1,6 +1,6 @@
 setIcon(<dungeontactics:fan_block>)
-setTitle("Fan")
-setDescription("Pushes mobs away when powered by redstone. More fans behind it increase the push power.")
+setTranslatedTitle("advancements.basedefense.fan.title")
+setTranslatedDescription("advancements.basedefense.fan.description")
 
 addParent("triumph:advancements/basedefense/root")
 

@@ -1,6 +1,6 @@
 setIcon(<harvestcraft:well>)
-setTitle("Well, well, well.")
-setDescription("Allows for infinite water. Very useful for setting up base defenses.")
+setTranslatedTitle("advancements.basedefense.well.title")
+setTranslatedDescription("advancements.basedefense.well.description")
 
 addParent("triumph:advancements/basedefense/root")
 

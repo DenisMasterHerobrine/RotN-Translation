@@ -1,6 +1,6 @@
 setIcon(<minetraps:barbed_wire_fence>)
-setTitle("Barbed Wire Fence")
-setDescription("Same as Barbed Wire except it can not be walked through.")
+setTitle("advancements.basedefense.barbed_wire_fence.title")
+setDescription("advancements.basedefense.barbed_wire_fence.description")
 
 addParent("triumph:advancements/basedefense/barbed_wire")
 

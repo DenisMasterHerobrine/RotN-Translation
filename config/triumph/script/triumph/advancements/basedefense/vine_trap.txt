@@ -1,6 +1,6 @@
 setIcon(<betterwithmods:vine_trap>)
-setTitle("Vine Trap")
-setDescription("Mobs will think this is walkable, but will fall right through it! Great for moats.")
+setTranslatedTitle("advancements.basedefense.vine_trap.title")
+setTranslatedDescription("advancements.basedefense.vine_trap.description")
 
 addParent("triumph:advancements/basedefense/root")
 

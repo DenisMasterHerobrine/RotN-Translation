@@ -1,6 +1,6 @@
 setIcon(<dungeontactics:trap_clamp>)
-setTitle("Clamp Trap")
-setDescription("Holds a mob in place for a few seconds and damages them. Requires a Wrench to reset")
+setTranslatedTitle("advancements.basedefense.trap_clamp.title")
+setTranslatedDescription("advancements.basedefense.trap_clamp.description")
 
 addParent("triumph:advancements/basedefense/wrench")
 

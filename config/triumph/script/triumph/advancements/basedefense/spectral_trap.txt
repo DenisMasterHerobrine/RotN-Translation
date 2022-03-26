@@ -1,6 +1,6 @@
 setIcon(<dungeontactics:trap_spectral>)
-setTitle("Spectral Trap")
-setDescription("Highlights mobs through walls that walk on it. Needs to be reset after each use.")
+setTranslatedTitle("advancements.basedefense.spectral_trap.title")
+setTranslatedDescription("advancements.basedefense.spectral_trap.description")
 
 addParent("triumph:advancements/basedefense/wrench")
 

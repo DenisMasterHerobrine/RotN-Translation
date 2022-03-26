@@ -1,6 +1,6 @@
 setIcon(<minetraps:toxic_mine>)
-setTitle("Toxic Mine")
-setDescription("A much smaller explosion radius, but a large radius of toxins. Toxins do not work against most monsters.")
+setTranslatedTitle("advancements.basedefense.toxic_mine.title")
+setTranslatedDescription("advancements.basedefense.toxic_mine.description")
 
 addParent("triumph:advancements/basedefense/mine")
 

@@ -1,6 +1,6 @@
 setIcon(<minetraps:spikes>)
-setTitle("Spikes")
-setDescription("Kills mobs significantly faster than Nail Traps. Needs redstone power.")
+setTranslatedTitle("advancements.basedefense.spikes.title")
+setTranslatedDescription("advancements.basedefense.spikes.description")
 
 addParent("triumph:advancements/basedefense/nail_trap")
 
