@@ -1,6 +1,6 @@
 setIcon(<minetraps:toxic_nail_trap>)
-setTranslatedTitle("Toxic Nail Trap")
-setTranslatedDescription("Toxins do not work against most monsters.")
+setTitle("Toxic Nail Trap")
+setDescription("Toxins do not work against most monsters.")
 
 addParent("triumph:advancements/basedefense/nail_trap")
 

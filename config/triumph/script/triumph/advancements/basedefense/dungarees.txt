@@ -1,6 +1,6 @@
 setIcon(<dungeontactics:engineer_dungarees>)
-setTranslatedTitle("advancements.basedefense.dungarees.title")
-setTranslatedDescription("advancements.basedefense.dungarees.description")
+setTitle("Engineer's Dungarees")
+setDescription("A must-have for working with base defenses!")
 
 addParent("triumph:advancements/basedefense/caltrops")
 

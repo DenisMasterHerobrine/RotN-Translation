@@ -1,6 +1,6 @@
 setIcon(<dungeontactics:trap_port>)
-setTranslatedTitle("advancements.basedefense.port_trap.title")
-setTranslatedDescription("advancements.basedefense.port_trap.description")
+setTitle("Port Trap")
+setDescription("Teleports mobs away that walk on it. Needs to be reset after each use.")
 
 addParent("triumph:advancements/basedefense/wrench")
 

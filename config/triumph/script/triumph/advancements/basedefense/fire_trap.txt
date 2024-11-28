@@ -1,6 +1,6 @@
 setIcon(<dungeontactics:trap_fire>)
-setTranslatedTitle("advancements.basedefense.fire_trap.title")
-setTranslatedDescription("advancements.basedefense.fire_trap.description")
+setTitle("Fire Trap")
+setDescription("Sets mobs on fire that walk on it. Needs to be reset after each use.")
 
 addParent("triumph:advancements/basedefense/wrench")
 

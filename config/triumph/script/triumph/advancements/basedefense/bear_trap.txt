@@ -1,6 +1,6 @@
 setIcon(<minetraps:bear_trap>)
-setTranslatedTitle("advancements.basedefense.bear_trap.title")
-setTranslatedDescription("advancements.basedefense.bear_trap.description")
+setTitle("Bear Trap")
+setDescription("Completely immobilizes mobs and continuously damages them. Does not need to be reset.")
 
 addParent("triumph:advancements/basedefense/razor_wire")
 

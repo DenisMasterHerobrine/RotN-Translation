@@ -11,11 +11,11 @@ criteria = addCriteria("Chestplate", "minecraft:inventory_changed")
 criteria.addItem("simpleores:mythril_chestplate")
 
 criteria = addCriteria("Leggings", "minecraft:inventory_changed")
-criteria.addItem("simpleores:adamantium_leggings")
+criteria.addItem("simpleores:mythril_leggings")
 
 criteria = addCriteria("Boots", "minecraft:inventory_changed")
 criteria.addItem("simpleores:mythril_boots")
 
 hideLines()
 alwaysVisible()
-setPos(180,120)
+setPos(180,150)

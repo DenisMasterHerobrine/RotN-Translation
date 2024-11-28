@@ -17,9 +17,10 @@ Everyone is able to contribute to this small project through PRs and suggesting 
 
 Available languages can be found here:
 
-| Available Language | Status | Version | Supported RotN Versions |
-|:------------------:|:------:|:-------:|:-----------------------:|
-|Russian             |Beta    |v0.5.12  |3.0.0                    |
+| Available Language | Status |    Version     | Supported RotN Versions |
+|:------------------:|:------:|:--------------:|:-----------------------:|
+|      English       |  Beta  |   by default   |          3.2.2          |
+|      Russian       |  Beta  | v0.6.0.alpha.1 |          3.2.2          |
 
 # To-Do List
 - [Russian] Add more advancements translations and remove the #PLACEHOLDER# entries and fill them with something

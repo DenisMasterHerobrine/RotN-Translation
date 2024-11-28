@@ -1,6 +1,6 @@
 setIcon(<dungeontactics:engineers_wrench_iron>)
-setTranslatedTitle("advancements.basedefense.wrench.title")
-setTranslatedDescription("advancements.basedefense.wrench.description.")
+setTitle("Iron Engineer's Wrench")
+setDescription("Used to repair and reset many traps.")
 
 addParent("triumph:advancements/basedefense/root")
 
